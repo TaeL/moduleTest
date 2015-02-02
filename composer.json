@@ -1,5 +1,6 @@
 {
   "name": "TaeL/moduleTest",
+  "type": "library",
   "description": "description_text",
   "minimum-stability": "stable",
   "license": "proprietary",
